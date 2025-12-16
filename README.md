@@ -1,7 +1,7 @@
 # QA Junior Portfolio - Ana Carvalho
 
 ## About Me
-Hi, I’m Ana, a Junior QA professional in training with a focus on manual testing, test case creation, and identifying defects in web applications. I have hands-on experience with functional and exploratory testing, and I am eager to develop my skills in automated testing using tools like Selenium in the future. 
+Hi, I’m Ana, a Junior QA professional in training with a focus on manual testing, test case creation, and identifying defects in web applications. 
 I am passionate about ensuring software quality, learning new testing techniques, and contributing to the development of reliable and user-friendly applications.
 
 ## Skills & Tools
